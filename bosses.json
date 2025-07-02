@@ -1,0 +1,14 @@
+{
+  "bosses": [
+    { "name": "Grunt Gnasher",   "hp": 180.0,   "damage": 22.0  },
+    { "name": "Blightfang",      "hp": 240.0,   "damage": 29.0  },
+    { "name": "Ember Howl",      "hp": 320.0,   "damage": 37.0  },
+    { "name": "Bonecrusher",     "hp": 420.0,   "damage": 46.0  },
+    { "name": "Shade Reaper",    "hp": 550.0,   "damage": 57.0  },
+    { "name": "Frost Revenant",  "hp": 720.0,   "damage": 70.0  },
+    { "name": "Blood Herald",    "hp": 950.0,   "damage": 86.0  },
+    { "name": "Voidcaller",      "hp": 1250.0,  "damage": 106.0 },
+    { "name": "Storm Tyrant",    "hp": 1650.0,  "damage": 130.0 },
+    { "name": "Doom Bringer",    "hp": 2200.0,  "damage": 160.0 }
+  ]
+}

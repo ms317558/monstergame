@@ -1,0 +1,16 @@
+{
+  "assassin": {
+    "hp": 80.0,
+    "level": 2
+  },
+  "currentBossIndex": 1,
+  "name": "test",
+  "support": {
+    "hp": 100.0,
+    "level": 2
+  },
+  "tank": {
+    "hp": 170.0,
+    "level": 2
+  }
+}

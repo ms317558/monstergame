@@ -1,0 +1,42 @@
+{
+  "max_level": 10,
+  "Assassin": {
+    "levels": {
+      "2":  { "hp_bonus": 5.0, "dmg_bonus": 3.0 },
+      "3":  { "hp_bonus": 5.0, "dmg_bonus": 3.0 },
+      "4":  { "hp_bonus": 5.0, "dmg_bonus": 4.0 },
+      "5":  { "hp_bonus": 5.0, "dmg_bonus": 4.0 },
+      "6":  { "hp_bonus": 5.0, "dmg_bonus": 5.0 },
+      "7":  { "hp_bonus": 5.0, "dmg_bonus": 5.0 },
+      "8":  { "hp_bonus": 5.0, "dmg_bonus": 6.0 },
+      "9":  { "hp_bonus": 5.0, "dmg_bonus": 6.0 },
+      "10": { "hp_bonus": 5.0, "dmg_bonus": 7.0 }
+    }
+  },
+  "Tank": {
+    "levels": {
+      "2":  { "hp_bonus": 20.0, "dmg_bonus": 1.0 },
+      "3":  { "hp_bonus": 20.0, "dmg_bonus": 1.0 },
+      "4":  { "hp_bonus": 25.0, "dmg_bonus": 1.0 },
+      "5":  { "hp_bonus": 25.0, "dmg_bonus": 2.0 },
+      "6":  { "hp_bonus": 30.0, "dmg_bonus": 2.0 },
+      "7":  { "hp_bonus": 30.0, "dmg_bonus": 2.0 },
+      "8":  { "hp_bonus": 35.0, "dmg_bonus": 2.0 },
+      "9":  { "hp_bonus": 40.0, "dmg_bonus": 2.0 },
+      "10": { "hp_bonus": 50.0, "dmg_bonus": 3.0 }
+    }
+  },
+  "Support": {
+    "levels": {
+      "2":  { "hp_bonus": 10.0, "dmg_bonus": 2.0 },
+      "3":  { "hp_bonus": 10.0, "dmg_bonus": 2.0 },
+      "4":  { "hp_bonus": 12.0, "dmg_bonus": 2.0 },
+      "5":  { "hp_bonus": 12.0, "dmg_bonus": 2.0 },
+      "6":  { "hp_bonus": 15.0, "dmg_bonus": 3.0 },
+      "7":  { "hp_bonus": 15.0, "dmg_bonus": 3.0 },
+      "8":  { "hp_bonus": 20.0, "dmg_bonus": 3.0 },
+      "9":  { "hp_bonus": 20.0, "dmg_bonus": 4.0 },
+      "10": { "hp_bonus": 25.0, "dmg_bonus": 4.0 }
+    }
+  }
+}
